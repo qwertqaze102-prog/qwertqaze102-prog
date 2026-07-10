@@ -15,6 +15,9 @@ I work with this stack and prove it with separate repositories:
 
 `Linux` · `Docker` · `Kubernetes` · `Jenkins` · `GitLab CI` · `Ansible` · `Terraform` · `Prometheus` · `Grafana` · `Zabbix` · `Nginx` · `Git` · `Python` · `Bash` · `PowerShell`
 
+## 🚀 Live runnable demo
+**[runnable-devops-lab](https://github.com/qwertqaze102-prog/runnable-devops-lab)** — python no-docker/demo_lab.py or Docker stacks.
+
 ## 🧭 Start here
 **[devops-portfolio-hub](https://github.com/qwertqaze102-prog/devops-portfolio-hub)** — full map: technology → repository
 
@@ -43,3 +46,4 @@ I work with this stack and prove it with separate repositories:
 
 ---
 Open to **DevOps / SRE / Infrastructure** roles (remote / hybrid).
+
